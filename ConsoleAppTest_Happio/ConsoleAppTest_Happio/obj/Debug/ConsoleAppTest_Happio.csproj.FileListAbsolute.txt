@@ -1,0 +1,6 @@
+D:\Project_ข้อทอสอบ\ConsoleAppTest_Happio\ConsoleAppTest_Happio\bin\Debug\ConsoleAppTest_Happio.exe.config
+D:\Project_ข้อทอสอบ\ConsoleAppTest_Happio\ConsoleAppTest_Happio\bin\Debug\ConsoleAppTest_Happio.exe
+D:\Project_ข้อทอสอบ\ConsoleAppTest_Happio\ConsoleAppTest_Happio\bin\Debug\ConsoleAppTest_Happio.pdb
+D:\Project_ข้อทอสอบ\ConsoleAppTest_Happio\ConsoleAppTest_Happio\obj\Debug\ConsoleAppTest_Happio.csprojAssemblyReference.cache
+D:\Project_ข้อทอสอบ\ConsoleAppTest_Happio\ConsoleAppTest_Happio\obj\Debug\ConsoleAppTest_Happio.exe
+D:\Project_ข้อทอสอบ\ConsoleAppTest_Happio\ConsoleAppTest_Happio\obj\Debug\ConsoleAppTest_Happio.pdb
